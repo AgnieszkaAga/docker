@@ -1,0 +1,451 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1619213304873,2409,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152058,232,15,15,https://www.czecho.pl/,42,0,20
+1619213304873,42,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,42,0,20
+1619213304916,2366,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151573,116,15,15,https://www.czecho.pl/,2084,0,1224
+1619213305339,1996,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152050,232,15,15,https://www.czecho.pl/,117,0,38
+1619213305339,117,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,15,15,http://www.czecho.pl/,117,0,38
+1619213305457,1878,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151565,116,15,15,https://www.czecho.pl/,1527,0,628
+1619213305077,2277,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152050,232,15,15,https://www.czecho.pl/,88,0,47
+1619213305077,88,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,88,0,47
+1619213305170,2184,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151565,116,15,15,https://www.czecho.pl/,1835,0,919
+1619213305044,2716,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152050,232,15,15,https://www.czecho.pl/,100,0,21
+1619213305044,100,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,15,15,http://www.czecho.pl/,100,0,21
+1619213305145,2615,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151565,116,15,15,https://www.czecho.pl/,1716,0,1001
+1619213304816,2975,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152058,232,15,15,https://www.czecho.pl/,54,0,23
+1619213304816,57,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,15,15,http://www.czecho.pl/,54,0,23
+1619213304878,2913,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151573,116,15,15,https://www.czecho.pl/,1933,0,1214
+1619213305210,2658,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152066,232,15,15,https://www.czecho.pl/,37,0,16
+1619213305210,37,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,15,15,http://www.czecho.pl/,37,0,16
+1619213305248,2620,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151581,116,15,15,https://www.czecho.pl/,1992,0,874
+1619213304789,3375,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152050,232,15,15,https://www.czecho.pl/,80,0,48
+1619213304789,82,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,15,15,http://www.czecho.pl/,80,0,48
+1619213304880,3284,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151565,116,15,15,https://www.czecho.pl/,3117,0,1314
+1619213304789,3596,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152038,232,15,15,https://www.czecho.pl/,80,0,50
+1619213304789,83,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,15,15,http://www.czecho.pl/,80,0,50
+1619213304882,3503,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151553,116,15,15,https://www.czecho.pl/,3218,0,1276
+1619213304790,3811,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152058,232,15,15,https://www.czecho.pl/,80,0,48
+1619213304790,82,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,80,0,48
+1619213304875,3726,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151573,116,15,15,https://www.czecho.pl/,3447,0,1337
+1619213305499,3194,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152058,232,15,15,https://www.czecho.pl/,58,0,18
+1619213305499,58,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,15,15,http://www.czecho.pl/,58,0,18
+1619213305559,3134,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151573,116,15,15,https://www.czecho.pl/,2578,0,629
+1619213305144,3654,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152046,232,15,15,https://www.czecho.pl/,49,0,18
+1619213305144,49,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,15,15,http://www.czecho.pl/,49,0,18
+1619213305194,3604,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151561,116,15,15,https://www.czecho.pl/,2976,0,1005
+1619213304946,3863,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152058,232,15,15,https://www.czecho.pl/,42,0,18
+1619213304946,43,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,15,15,http://www.czecho.pl/,42,0,18
+1619213304990,3819,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151573,116,15,15,https://www.czecho.pl/,3302,0,1211
+1619213305444,3416,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152050,232,15,15,https://www.czecho.pl/,78,0,27
+1619213305444,78,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,15,15,http://www.czecho.pl/,78,0,27
+1619213305523,3337,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151565,116,15,15,https://www.czecho.pl/,2792,0,673
+1619213305273,4032,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152050,232,15,15,https://www.czecho.pl/,52,0,18
+1619213305273,52,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,15,15,http://www.czecho.pl/,52,0,18
+1619213305326,3979,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151565,116,15,15,https://www.czecho.pl/,3767,0,928
+1619213307336,1983,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152046,232,15,15,https://www.czecho.pl/,51,0,0
+1619213307336,51,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,15,15,http://www.czecho.pl/,51,0,0
+1619213307387,1932,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151561,116,15,15,https://www.czecho.pl/,1690,0,0
+1619213307285,2217,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152058,232,15,15,https://www.czecho.pl/,66,0,0
+1619213307285,66,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,66,0,0
+1619213307352,2150,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151573,116,15,15,https://www.czecho.pl/,1963,0,0
+1619213307355,2151,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152066,232,15,15,https://www.czecho.pl/,50,0,0
+1619213307355,50,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,50,0,0
+1619213307405,2101,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151581,116,15,15,https://www.czecho.pl/,1897,0,0
+1619213305629,4117,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152038,232,15,15,https://www.czecho.pl/,132,0,17
+1619213305629,132,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,15,15,http://www.czecho.pl/,132,0,17
+1619213305762,3984,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151553,116,15,15,https://www.czecho.pl/,3798,0,466
+1619213308386,1394,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152038,232,15,15,https://www.czecho.pl/,76,0,0
+1619213308386,76,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,15,15,http://www.czecho.pl/,76,0,0
+1619213308463,1317,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151553,116,15,15,https://www.czecho.pl/,1126,0,0
+1619213309506,1198,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152050,232,15,15,https://www.czecho.pl/,23,0,0
+1619213309506,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213309530,1174,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151565,116,15,15,https://www.czecho.pl/,892,0,0
+1619213309306,1614,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152050,232,15,15,https://www.czecho.pl/,23,0,0
+1619213309306,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213309329,1591,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151565,116,15,15,https://www.czecho.pl/,1346,0,0
+1619213309503,1472,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152050,232,15,15,https://www.czecho.pl/,24,0,0
+1619213309503,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,24,0,0
+1619213309527,1448,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151565,116,15,15,https://www.czecho.pl/,1019,0,0
+1619213309320,1659,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152050,232,15,15,https://www.czecho.pl/,24,0,0
+1619213309320,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,15,15,http://www.czecho.pl/,24,0,0
+1619213309344,1635,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151565,116,15,15,https://www.czecho.pl/,1349,0,0
+1619213308165,2870,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152050,232,15,15,https://www.czecho.pl/,359,0,0
+1619213308165,359,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,15,15,http://www.czecho.pl/,359,0,0
+1619213308525,2510,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151565,116,15,15,https://www.czecho.pl/,2016,0,0
+1619213308602,2903,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152073,232,15,15,https://www.czecho.pl/,61,0,0
+1619213308602,61,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,61,0,0
+1619213308664,2841,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151588,116,15,15,https://www.czecho.pl/,2644,0,0
+1619213307761,3971,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152066,232,15,15,https://www.czecho.pl/,42,0,0
+1619213307761,42,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,15,15,http://www.czecho.pl/,42,0,0
+1619213307803,3929,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151581,116,15,15,https://www.czecho.pl/,3476,0,0
+1619213308694,3265,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152058,232,15,15,https://www.czecho.pl/,45,0,0
+1619213308694,45,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,15,15,http://www.czecho.pl/,45,0,0
+1619213308739,3220,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151573,116,15,15,https://www.czecho.pl/,2869,0,0
+1619213307792,4535,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152058,232,15,15,https://www.czecho.pl/,24,0,0
+1619213307792,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,15,15,http://www.czecho.pl/,24,0,0
+1619213307816,4511,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151573,116,15,15,https://www.czecho.pl/,3937,0,0
+1619213310724,1680,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152046,232,15,15,https://www.czecho.pl/,45,0,0
+1619213310724,45,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,45,0,0
+1619213310769,1635,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151561,116,15,15,https://www.czecho.pl/,1008,0,0
+1619213309781,2653,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152050,232,15,15,https://www.czecho.pl/,29,0,0
+1619213309781,30,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,15,15,http://www.czecho.pl/,29,0,0
+1619213309811,2623,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151565,116,15,15,https://www.czecho.pl/,1954,0,0
+1619213308799,3651,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152046,232,15,15,https://www.czecho.pl/,23,0,0
+1619213308799,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213308823,3627,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151561,116,15,15,https://www.czecho.pl/,2935,0,0
+1619213309746,2837,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152050,232,15,15,https://www.czecho.pl/,26,0,0
+1619213309746,26,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,15,15,http://www.czecho.pl/,26,0,0
+1619213309772,2811,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151565,116,15,15,https://www.czecho.pl/,2457,0,0
+1619213311505,1634,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152050,232,15,15,https://www.czecho.pl/,23,0,0
+1619213311505,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213311528,1611,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151565,116,15,15,https://www.czecho.pl/,1335,0,0
+1619213308810,4625,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152058,232,15,15,https://www.czecho.pl/,24,0,0
+1619213308810,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,15,15,http://www.czecho.pl/,24,0,0
+1619213308834,4601,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151573,116,15,15,https://www.czecho.pl/,3979,0,0
+1619213310921,2665,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152054,232,15,15,https://www.czecho.pl/,31,0,0
+1619213310921,31,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,15,15,http://www.czecho.pl/,31,0,0
+1619213310952,2634,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151569,116,15,15,https://www.czecho.pl/,1986,0,0
+1619213310976,2770,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152046,232,15,15,https://www.czecho.pl/,21,0,0
+1619213310976,21,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,21,0,0
+1619213310998,2748,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151561,116,15,15,https://www.czecho.pl/,2064,0,0
+1619213311732,2022,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152054,232,15,15,https://www.czecho.pl/,44,0,0
+1619213311732,44,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,15,15,http://www.czecho.pl/,44,0,0
+1619213311777,1977,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151569,116,15,15,https://www.czecho.pl/,1104,0,0
+1619213307869,5892,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152066,232,15,15,https://www.czecho.pl/,22,0,0
+1619213307869,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,15,15,http://www.czecho.pl/,22,0,0
+1619213307891,5870,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151581,116,15,15,https://www.czecho.pl/,5129,0,0
+1619213308861,4918,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152058,232,15,15,https://www.czecho.pl/,21,0,0
+1619213308861,21,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,15,15,http://www.czecho.pl/,21,0,0
+1619213308882,4897,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151573,116,15,15,https://www.czecho.pl/,4123,0,0
+1619213310980,2838,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152046,232,15,15,https://www.czecho.pl/,26,0,0
+1619213310980,26,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,15,15,http://www.czecho.pl/,26,0,0
+1619213311006,2812,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151561,116,15,15,https://www.czecho.pl/,2367,0,0
+1619213313140,865,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152062,232,15,15,https://www.czecho.pl/,59,0,0
+1619213313140,59,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,59,0,0
+1619213313199,806,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151577,116,15,15,https://www.czecho.pl/,684,0,0
+1619213311036,3723,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152058,232,15,15,https://www.czecho.pl/,22,0,0
+1619213311036,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,15,15,http://www.czecho.pl/,22,0,0
+1619213311058,3701,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151573,116,15,15,https://www.czecho.pl/,3491,0,0
+1619213312405,2508,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152046,232,15,15,https://www.czecho.pl/,32,0,0
+1619213312405,32,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,32,0,0
+1619213312437,2476,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151561,116,15,15,https://www.czecho.pl/,2307,0,0
+1619213312327,2857,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152066,232,15,15,https://www.czecho.pl/,37,0,0
+1619213312327,37,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,15,15,http://www.czecho.pl/,37,0,0
+1619213312365,2819,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151581,116,15,15,https://www.czecho.pl/,2565,0,0
+1619213314006,1186,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152058,232,15,15,https://www.czecho.pl/,22,0,0
+1619213314006,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,22,0,0
+1619213314028,1164,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151573,116,15,15,https://www.czecho.pl/,1017,0,0
+1619213311959,3860,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152046,232,15,15,https://www.czecho.pl/,337,0,0
+1619213311959,337,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,15,15,http://www.czecho.pl/,337,0,0
+1619213312296,3523,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151561,116,15,15,https://www.czecho.pl/,3289,0,0
+1619213313746,2545,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152054,232,15,15,https://www.czecho.pl/,37,0,0
+1619213313746,37,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,37,0,0
+1619213313783,2508,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151569,116,15,15,https://www.czecho.pl/,2070,0,0
+1619213312450,3892,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152057,232,15,15,https://www.czecho.pl/,23,0,0
+1619213312450,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213312473,3869,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151572,116,15,15,https://www.czecho.pl/,3354,0,0
+1619213312583,3762,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152058,232,15,15,https://www.czecho.pl/,26,0,0
+1619213312583,26,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,15,15,http://www.czecho.pl/,26,0,0
+1619213312610,3735,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151573,116,15,15,https://www.czecho.pl/,3230,0,0
+1619213314914,1536,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152058,232,15,15,https://www.czecho.pl/,23,0,0
+1619213314914,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213314937,1513,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151573,116,15,15,https://www.czecho.pl/,1033,0,0
+1619213315193,1366,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152050,232,15,15,https://www.czecho.pl/,22,0,0
+1619213315193,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,22,0,0
+1619213315215,1344,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151565,116,15,15,https://www.czecho.pl/,1093,0,0
+1619213315185,1389,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152058,232,15,15,https://www.czecho.pl/,21,0,0
+1619213315185,21,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,15,15,http://www.czecho.pl/,21,0,0
+1619213315207,1367,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151573,116,15,15,https://www.czecho.pl/,979,0,0
+1619213312435,4327,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152046,232,15,15,https://www.czecho.pl/,23,0,0
+1619213312435,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213312459,4303,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151561,116,15,15,https://www.czecho.pl/,3650,0,0
+1619213313819,3836,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152046,232,15,15,https://www.czecho.pl/,22,0,0
+1619213313819,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,15,15,http://www.czecho.pl/,22,0,0
+1619213313841,3814,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151561,116,15,15,https://www.czecho.pl/,3421,0,0
+1619213313435,4659,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152038,232,15,15,https://www.czecho.pl/,76,0,0
+1619213313435,76,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,15,15,http://www.czecho.pl/,76,0,0
+1619213313511,4583,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151553,116,15,15,https://www.czecho.pl/,3839,0,0
+1619213314760,3358,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152050,232,15,15,https://www.czecho.pl/,24,0,0
+1619213314760,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,15,15,http://www.czecho.pl/,24,0,0
+1619213314784,3334,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151565,116,15,15,https://www.czecho.pl/,2723,0,0
+1619213313587,4620,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152050,232,15,15,https://www.czecho.pl/,63,0,0
+1619213313587,63,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,15,15,http://www.czecho.pl/,63,0,0
+1619213313650,4557,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151565,116,15,15,https://www.czecho.pl/,3874,0,0
+1619213313755,4582,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152058,232,15,15,https://www.czecho.pl/,28,0,0
+1619213313755,28,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,15,15,http://www.czecho.pl/,28,0,0
+1619213313784,4553,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151573,116,15,15,https://www.czecho.pl/,3631,0,0
+1619213316292,2137,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152066,232,15,15,https://www.czecho.pl/,59,0,0
+1619213316292,59,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,59,0,0
+1619213316352,2077,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151581,116,15,15,https://www.czecho.pl/,1331,0,0
+1619213315820,2665,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152038,232,15,15,https://www.czecho.pl/,30,0,0
+1619213315820,30,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,15,15,http://www.czecho.pl/,30,0,0
+1619213315850,2635,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151553,116,15,15,https://www.czecho.pl/,1997,0,0
+1619213316450,2145,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152066,232,15,15,https://www.czecho.pl/,47,0,0
+1619213316450,48,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,47,0,0
+1619213316498,2097,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151581,116,15,15,https://www.czecho.pl/,1413,0,0
+1619213316346,2272,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152038,232,15,15,https://www.czecho.pl/,62,0,0
+1619213316346,62,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,15,15,http://www.czecho.pl/,62,0,0
+1619213316409,2209,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151553,116,15,15,https://www.czecho.pl/,1538,0,0
+1619213316342,2336,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152058,232,15,15,https://www.czecho.pl/,62,0,0
+1619213316342,62,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,15,15,http://www.czecho.pl/,62,0,0
+1619213316404,2274,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151573,116,15,15,https://www.czecho.pl/,1263,0,0
+1619213316575,2297,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152046,232,15,15,https://www.czecho.pl/,21,0,0
+1619213316575,21,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,15,15,http://www.czecho.pl/,21,0,0
+1619213316596,2276,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151561,116,15,15,https://www.czecho.pl/,1733,0,0
+1619213316559,2517,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152058,232,15,15,https://www.czecho.pl/,28,0,0
+1619213316559,29,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,28,0,0
+1619213316588,2488,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151573,116,15,15,https://www.czecho.pl/,2104,0,0
+1619213313762,5501,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152058,232,15,15,https://www.czecho.pl/,28,0,0
+1619213316762,2502,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152066,232,15,15,https://www.czecho.pl/,24,0,0
+1619213313762,28,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,15,15,http://www.czecho.pl/,28,0,0
+1619213316762,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,15,15,http://www.czecho.pl/,24,0,0
+1619213313790,5473,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151573,116,15,15,https://www.czecho.pl/,4923,0,0
+1619213316787,2477,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151581,116,15,15,https://www.czecho.pl/,1732,0,0
+1619213313780,5485,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152058,232,15,15,https://www.czecho.pl/,22,0,0
+1619213313780,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,15,15,http://www.czecho.pl/,22,0,0
+1619213313802,5463,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151573,116,15,15,https://www.czecho.pl/,4938,0,0
+1619213317655,1725,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152046,232,15,15,https://www.czecho.pl/,56,0,0
+1619213317655,56,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,15,15,http://www.czecho.pl/,56,0,0
+1619213317711,1669,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151561,116,15,15,https://www.czecho.pl/,1040,0,0
+1619213318486,1626,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152038,232,15,15,https://www.czecho.pl/,72,0,0
+1619213318486,72,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,15,15,http://www.czecho.pl/,72,0,0
+1619213318558,1554,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151553,116,15,15,https://www.czecho.pl/,1021,0,0
+1619213318430,1799,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152046,232,15,15,https://www.czecho.pl/,77,0,0
+1619213318430,78,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,77,0,0
+1619213318508,1721,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151561,116,15,15,https://www.czecho.pl/,1100,0,0
+1619213318873,1496,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152058,232,15,15,https://www.czecho.pl/,75,0,0
+1619213318873,75,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,15,15,http://www.czecho.pl/,75,0,0
+1619213318948,1421,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151573,116,15,15,https://www.czecho.pl/,998,0,0
+1619213318119,2287,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152046,232,15,15,https://www.czecho.pl/,92,0,0
+1619213318119,92,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,15,15,http://www.czecho.pl/,92,0,0
+1619213318212,2194,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151561,116,15,15,https://www.czecho.pl/,1376,0,0
+1619213318208,2232,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152054,232,15,15,https://www.czecho.pl/,84,0,0
+1619213318208,84,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,15,15,http://www.czecho.pl/,84,0,0
+1619213318293,2147,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151569,116,15,15,https://www.czecho.pl/,1366,0,0
+1619213318095,2419,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152038,232,15,15,https://www.czecho.pl/,97,0,0
+1619213318095,97,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,15,15,http://www.czecho.pl/,97,0,0
+1619213318192,2322,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151553,116,15,15,https://www.czecho.pl/,1325,0,0
+1619213318337,2337,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152054,232,15,15,https://www.czecho.pl/,89,0,0
+1619213318337,90,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,15,15,http://www.czecho.pl/,89,0,0
+1619213318427,2247,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151569,116,15,15,https://www.czecho.pl/,1318,0,0
+1619213318618,2069,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152058,232,15,15,https://www.czecho.pl/,84,0,0
+1619213318618,84,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,15,15,http://www.czecho.pl/,84,0,0
+1619213318702,1985,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151573,116,15,15,https://www.czecho.pl/,1423,0,0
+1619213318596,2141,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152058,232,15,15,https://www.czecho.pl/,82,0,0
+1619213318596,82,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,82,0,0
+1619213318678,2059,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151573,116,15,15,https://www.czecho.pl/,1647,0,0
+1619213318679,2076,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152038,232,15,15,https://www.czecho.pl/,76,0,0
+1619213318679,76,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,15,15,http://www.czecho.pl/,76,0,0
+1619213318756,1999,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151553,116,15,15,https://www.czecho.pl/,1556,0,0
+1619213319077,2612,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152038,232,15,15,https://www.czecho.pl/,51,0,0
+1619213319077,51,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,51,0,0
+1619213319128,2561,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151553,116,15,15,https://www.czecho.pl/,2449,0,0
+1619213320407,1497,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152046,232,15,15,https://www.czecho.pl/,70,0,0
+1619213320407,70,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,15,15,http://www.czecho.pl/,70,0,0
+1619213320477,1427,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151561,116,15,15,https://www.czecho.pl/,1203,0,0
+1619213320113,1861,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152050,232,15,15,https://www.czecho.pl/,83,0,0
+1619213320113,84,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,15,15,http://www.czecho.pl/,83,0,0
+1619213320197,1777,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151565,116,15,15,https://www.czecho.pl/,1541,0,0
+1619213320231,2259,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152058,232,15,15,https://www.czecho.pl/,96,0,0
+1619213320231,96,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,96,0,0
+1619213320328,2162,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151573,116,15,15,https://www.czecho.pl/,1585,0,0
+1619213319264,3393,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152058,232,15,15,https://www.czecho.pl/,24,0,0
+1619213319264,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,15,15,http://www.czecho.pl/,24,0,0
+1619213319288,3369,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151573,116,15,15,https://www.czecho.pl/,2983,0,0
+1619213320442,2491,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152050,232,15,15,https://www.czecho.pl/,65,0,0
+1619213320442,65,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,15,15,http://www.czecho.pl/,65,0,0
+1619213320507,2426,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151565,116,15,15,https://www.czecho.pl/,1797,0,0
+1619213319264,3765,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152038,232,15,15,https://www.czecho.pl/,23,0,0
+1619213319264,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213319287,3742,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151553,116,15,15,https://www.czecho.pl/,3091,0,0
+1619213320371,2725,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152046,232,15,15,https://www.czecho.pl/,76,0,0
+1619213320371,76,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,15,15,http://www.czecho.pl/,76,0,0
+1619213320447,2649,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151561,116,15,15,https://www.czecho.pl/,1523,0,0
+1619213319381,3730,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152066,232,15,15,https://www.czecho.pl/,22,0,0
+1619213319381,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,15,15,http://www.czecho.pl/,22,0,0
+1619213319404,3707,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151581,116,15,15,https://www.czecho.pl/,2916,0,0
+1619213319266,3980,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152050,232,15,15,https://www.czecho.pl/,25,0,0
+1619213319266,25,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,15,15,http://www.czecho.pl/,25,0,0
+1619213319292,3954,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151565,116,15,15,https://www.czecho.pl/,3332,0,0
+1619213321690,1722,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152050,232,15,15,https://www.czecho.pl/,25,0,0
+1619213321690,25,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,25,0,0
+1619213321715,1697,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151565,116,15,15,https://www.czecho.pl/,1226,0,0
+1619213320689,2989,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152058,232,15,15,https://www.czecho.pl/,35,0,0
+1619213320689,35,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,15,15,http://www.czecho.pl/,35,0,0
+1619213320724,2954,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151573,116,15,15,https://www.czecho.pl/,2250,0,0
+1619213321905,1954,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152046,232,15,15,https://www.czecho.pl/,27,0,0
+1619213321905,27,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,15,15,http://www.czecho.pl/,27,0,0
+1619213321932,1927,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151561,116,15,15,https://www.czecho.pl/,986,0,0
+1619213320676,3191,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152058,232,15,15,https://www.czecho.pl/,45,0,0
+1619213320676,45,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,15,15,http://www.czecho.pl/,45,0,0
+1619213320721,3146,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151573,116,15,15,https://www.czecho.pl/,2054,0,0
+1619213320515,3373,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152050,232,15,15,https://www.czecho.pl/,57,0,0
+1619213320515,57,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,15,15,http://www.czecho.pl/,57,0,0
+1619213320573,3315,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151565,116,15,15,https://www.czecho.pl/,2097,0,0
+1619213322659,1632,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152058,232,15,15,https://www.czecho.pl/,54,0,0
+1619213322659,54,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,15,15,http://www.czecho.pl/,54,0,0
+1619213322714,1577,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151573,116,15,15,https://www.czecho.pl/,1102,0,0
+1619213322490,1888,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152074,232,15,15,https://www.czecho.pl/,38,0,0
+1619213322490,38,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,15,15,http://www.czecho.pl/,38,0,0
+1619213322529,1849,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151589,116,15,15,https://www.czecho.pl/,1324,0,0
+1619213320756,3669,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152054,232,15,15,https://www.czecho.pl/,29,0,0
+1619213320756,29,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,15,15,http://www.czecho.pl/,29,0,0
+1619213320785,3640,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151569,116,15,15,https://www.czecho.pl/,3174,0,0
+1619213321975,2454,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152066,232,15,15,https://www.czecho.pl/,33,0,0
+1619213321975,33,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,15,15,http://www.czecho.pl/,33,0,0
+1619213322008,2421,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151581,116,15,15,https://www.czecho.pl/,1926,0,0
+1619213322936,1653,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152054,232,15,15,https://www.czecho.pl/,109,0,0
+1619213322936,109,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,15,15,http://www.czecho.pl/,109,0,0
+1619213323045,1544,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151569,116,15,15,https://www.czecho.pl/,1120,0,0
+1619213323097,1602,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152046,232,15,15,https://www.czecho.pl/,151,0,0
+1619213323097,151,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,15,15,http://www.czecho.pl/,151,0,0
+1619213323248,1451,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151561,116,15,15,https://www.czecho.pl/,1195,0,0
+1619213320738,4028,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152050,232,15,15,https://www.czecho.pl/,23,0,0
+1619213320738,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,15,15,http://www.czecho.pl/,23,0,0
+1619213320761,4005,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151565,116,15,15,https://www.czecho.pl/,3838,0,0
+1619213323248,1851,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152050,232,15,15,https://www.czecho.pl/,123,0,0
+1619213323248,124,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,15,15,http://www.czecho.pl/,123,0,0
+1619213323372,1727,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151565,116,15,15,https://www.czecho.pl/,1419,0,0
+1619213323412,1749,Czecho.pl main page,200,OK,Czecho.pl users 1-3,text,true,,152058,232,15,15,https://www.czecho.pl/,104,0,0
+1619213323412,105,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-3,text,true,,485,116,15,15,http://www.czecho.pl/,104,0,0
+1619213323517,1644,Czecho.pl main page-1,200,OK,Czecho.pl users 1-3,text,true,,151573,116,15,15,https://www.czecho.pl/,1348,0,0
+1619213323679,1632,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152066,232,14,14,https://www.czecho.pl/,84,0,0
+1619213323679,84,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,14,14,http://www.czecho.pl/,84,0,0
+1619213323763,1548,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151581,116,14,14,https://www.czecho.pl/,1142,0,0
+1619213323112,2268,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152058,232,14,14,https://www.czecho.pl/,139,0,0
+1619213323112,139,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,14,14,http://www.czecho.pl/,139,0,0
+1619213323251,2129,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151573,116,14,14,https://www.czecho.pl/,1636,0,0
+1619213323889,1670,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152058,232,14,14,https://www.czecho.pl/,30,0,0
+1619213323889,30,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,14,14,http://www.czecho.pl/,30,0,0
+1619213323920,1639,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151573,116,14,14,https://www.czecho.pl/,1152,0,0
+1619213323860,1999,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152066,232,14,14,https://www.czecho.pl/,40,0,0
+1619213323860,40,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,14,14,http://www.czecho.pl/,40,0,0
+1619213323900,1959,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151581,116,14,14,https://www.czecho.pl/,1494,0,0
+1619213323867,2042,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152058,232,14,14,https://www.czecho.pl/,37,0,0
+1619213323867,37,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,14,14,http://www.czecho.pl/,37,0,0
+1619213323904,2005,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151573,116,14,14,https://www.czecho.pl/,1533,0,0
+1619213324291,1623,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152050,232,14,14,https://www.czecho.pl/,60,0,0
+1619213324291,61,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,14,14,http://www.czecho.pl/,60,0,0
+1619213324352,1562,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151565,116,14,14,https://www.czecho.pl/,1171,0,0
+1619213323031,2906,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152058,232,14,14,https://www.czecho.pl/,99,0,0
+1619213323031,99,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,14,14,http://www.czecho.pl/,99,0,0
+1619213323131,2806,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151573,116,14,14,https://www.czecho.pl/,2344,0,0
+1619213324766,1750,Czecho.pl main page,200,OK,Czecho.pl users 1-8,text,true,,152058,232,14,14,https://www.czecho.pl/,23,0,0
+1619213324766,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-8,text,true,,485,116,14,14,http://www.czecho.pl/,23,0,0
+1619213324789,1727,Czecho.pl main page-1,200,OK,Czecho.pl users 1-8,text,true,,151573,116,14,14,https://www.czecho.pl/,1313,0,0
+1619213325100,1460,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152066,232,13,13,https://www.czecho.pl/,66,0,0
+1619213325100,66,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,13,13,http://www.czecho.pl/,66,0,0
+1619213325166,1394,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151581,116,13,13,https://www.czecho.pl/,944,0,0
+1619213324590,1987,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152058,232,13,13,https://www.czecho.pl/,36,0,0
+1619213324590,36,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,13,13,http://www.czecho.pl/,36,0,0
+1619213324627,1950,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151573,116,13,13,https://www.czecho.pl/,1440,0,0
+1619213324699,1943,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152058,232,13,13,https://www.czecho.pl/,23,0,0
+1619213324699,23,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,13,13,http://www.czecho.pl/,23,0,0
+1619213324723,1919,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151573,116,13,13,https://www.czecho.pl/,1438,0,0
+1619213325312,1336,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152046,232,13,13,https://www.czecho.pl/,31,0,0
+1619213325312,31,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,13,13,http://www.czecho.pl/,31,0,0
+1619213325343,1305,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151561,116,13,13,https://www.czecho.pl/,967,0,0
+1619213324437,3209,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152058,232,13,13,https://www.czecho.pl/,24,0,0
+1619213324437,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,13,13,http://www.czecho.pl/,24,0,0
+1619213324461,3185,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151573,116,13,13,https://www.czecho.pl/,2582,0,0
+1619213325380,2273,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152058,232,13,13,https://www.czecho.pl/,50,0,0
+1619213325380,50,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,13,13,http://www.czecho.pl/,50,0,0
+1619213325430,2223,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151573,116,13,13,https://www.czecho.pl/,1591,0,0
+1619213324379,3295,Czecho.pl main page,200,OK,Czecho.pl users 1-5,text,true,,152058,232,13,13,https://www.czecho.pl/,62,0,0
+1619213324379,62,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-5,text,true,,485,116,13,13,http://www.czecho.pl/,62,0,0
+1619213324442,3232,Czecho.pl main page-1,200,OK,Czecho.pl users 1-5,text,true,,151573,116,13,13,https://www.czecho.pl/,2623,0,0
+1619213324426,3288,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152038,232,12,12,https://www.czecho.pl/,28,0,0
+1619213324426,29,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,12,12,http://www.czecho.pl/,28,0,0
+1619213324455,3259,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151553,116,12,12,https://www.czecho.pl/,2987,0,0
+1619213326649,1814,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152050,232,12,12,https://www.czecho.pl/,21,0,0
+1619213326649,21,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,12,12,http://www.czecho.pl/,21,0,0
+1619213326670,1793,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151565,116,12,12,https://www.czecho.pl/,1353,0,0
+1619213325909,2748,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152038,232,12,12,https://www.czecho.pl/,22,0,0
+1619213325909,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,12,12,http://www.czecho.pl/,22,0,0
+1619213325931,2726,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151553,116,12,12,https://www.czecho.pl/,2558,0,0
+1619213326578,2277,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152038,232,12,12,https://www.czecho.pl/,25,0,0
+1619213326578,25,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,12,12,http://www.czecho.pl/,25,0,0
+1619213326603,2252,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151553,116,12,12,https://www.czecho.pl/,1548,0,0
+1619213325862,3142,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152074,232,12,12,https://www.czecho.pl/,49,0,0
+1619213325862,49,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,12,12,http://www.czecho.pl/,49,0,0
+1619213325912,3092,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151589,116,12,12,https://www.czecho.pl/,2780,0,0
+1619213326561,2478,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152050,232,12,12,https://www.czecho.pl/,28,0,0
+1619213326561,28,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,12,12,http://www.czecho.pl/,28,0,0
+1619213326590,2449,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151565,116,12,12,https://www.czecho.pl/,2039,0,0
+1619213326642,2556,Czecho.pl main page,200,OK,Czecho.pl users 1-4,text,true,,152058,232,12,12,https://www.czecho.pl/,22,0,0
+1619213326642,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-4,text,true,,485,116,12,12,http://www.czecho.pl/,22,0,0
+1619213326664,2534,Czecho.pl main page-1,200,OK,Czecho.pl users 1-4,text,true,,151573,116,12,12,https://www.czecho.pl/,2017,0,0
+1619213325915,3536,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152058,232,11,11,https://www.czecho.pl/,24,0,0
+1619213325915,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,11,11,http://www.czecho.pl/,24,0,0
+1619213325940,3511,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151573,116,11,11,https://www.czecho.pl/,3071,0,0
+1619213327646,2017,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152058,232,11,11,https://www.czecho.pl/,32,0,0
+1619213327646,32,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,11,11,http://www.czecho.pl/,32,0,0
+1619213327678,1985,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151573,116,11,11,https://www.czecho.pl/,1392,0,0
+1619213327715,2035,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152046,232,11,11,https://www.czecho.pl/,22,0,0
+1619213327715,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,11,11,http://www.czecho.pl/,22,0,0
+1619213327738,2012,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151561,116,11,11,https://www.czecho.pl/,1431,0,0
+1619213325559,4240,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152058,232,11,11,https://www.czecho.pl/,65,0,0
+1619213325559,65,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,11,11,http://www.czecho.pl/,65,0,0
+1619213325624,4175,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151573,116,11,11,https://www.czecho.pl/,3528,0,0
+1619213327653,2393,Czecho.pl main page,200,OK,Czecho.pl users 1-12,text,true,,152058,232,11,11,https://www.czecho.pl/,27,0,0
+1619213327653,27,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-12,text,true,,485,116,11,11,http://www.czecho.pl/,27,0,0
+1619213327680,2366,Czecho.pl main page-1,200,OK,Czecho.pl users 1-12,text,true,,151573,116,11,11,https://www.czecho.pl/,1591,0,0
+1619213325937,4248,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152062,232,10,10,https://www.czecho.pl/,22,0,0
+1619213325937,22,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,10,10,http://www.czecho.pl/,22,0,0
+1619213325959,4226,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151577,116,10,10,https://www.czecho.pl/,3513,0,0
+1619213328658,1542,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152066,232,10,10,https://www.czecho.pl/,43,0,0
+1619213328658,43,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,10,10,http://www.czecho.pl/,43,0,0
+1619213328701,1499,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151581,116,10,10,https://www.czecho.pl/,879,0,0
+1619213329005,1397,Czecho.pl main page,200,OK,Czecho.pl users 1-1,text,true,,152050,232,10,10,https://www.czecho.pl/,55,0,0
+1619213329005,55,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-1,text,true,,485,116,10,10,http://www.czecho.pl/,55,0,0
+1619213329060,1342,Czecho.pl main page-1,200,OK,Czecho.pl users 1-1,text,true,,151565,116,10,10,https://www.czecho.pl/,947,0,0
+1619213329040,1431,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152058,232,9,9,https://www.czecho.pl/,49,0,0
+1619213329040,49,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,9,9,http://www.czecho.pl/,49,0,0
+1619213329089,1382,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151573,116,9,9,https://www.czecho.pl/,775,0,0
+1619213328463,2065,Czecho.pl main page,200,OK,Czecho.pl users 1-15,text,true,,152058,232,9,9,https://www.czecho.pl/,54,0,0
+1619213328463,54,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-15,text,true,,485,116,9,9,http://www.czecho.pl/,54,0,0
+1619213328517,2011,Czecho.pl main page-1,200,OK,Czecho.pl users 1-15,text,true,,151573,116,9,9,https://www.czecho.pl/,1107,0,0
+1619213328856,1847,Czecho.pl main page,200,OK,Czecho.pl users 1-11,text,true,,152058,232,8,8,https://www.czecho.pl/,48,0,0
+1619213328856,49,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-11,text,true,,485,116,8,8,http://www.czecho.pl/,48,0,0
+1619213328905,1798,Czecho.pl main page-1,200,OK,Czecho.pl users 1-11,text,true,,151573,116,8,8,https://www.czecho.pl/,991,0,0
+1619213329452,1251,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152058,232,8,8,https://www.czecho.pl/,84,0,0
+1619213329452,85,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,8,8,http://www.czecho.pl/,84,0,0
+1619213329537,1166,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151573,116,8,8,https://www.czecho.pl/,762,0,0
+1619213329664,1187,Czecho.pl main page,200,OK,Czecho.pl users 1-14,text,true,,152058,232,7,7,https://www.czecho.pl/,95,0,0
+1619213329664,95,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-14,text,true,,485,116,7,7,http://www.czecho.pl/,95,0,0
+1619213329759,1092,Czecho.pl main page-1,200,OK,Czecho.pl users 1-14,text,true,,151573,116,7,7,https://www.czecho.pl/,781,0,0
+1619213329750,1124,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152050,232,6,6,https://www.czecho.pl/,87,0,0
+1619213329750,87,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,6,6,http://www.czecho.pl/,87,0,0
+1619213329838,1036,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151565,116,6,6,https://www.czecho.pl/,817,0,0
+1619213330705,1292,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152054,232,6,6,https://www.czecho.pl/,40,0,0
+1619213330705,40,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,6,6,http://www.czecho.pl/,40,0,0
+1619213330745,1252,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151569,116,6,6,https://www.czecho.pl/,899,0,0
+1619213329799,2206,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152046,232,6,6,https://www.czecho.pl/,85,0,0
+1619213329799,85,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,6,6,http://www.czecho.pl/,85,0,0
+1619213329884,2121,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151561,116,6,6,https://www.czecho.pl/,1602,0,0
+1619213330201,1909,Czecho.pl main page,200,OK,Czecho.pl users 1-7,text,true,,152058,232,6,6,https://www.czecho.pl/,62,0,0
+1619213330201,62,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-7,text,true,,485,116,6,6,http://www.czecho.pl/,62,0,0
+1619213330263,1847,Czecho.pl main page-1,200,OK,Czecho.pl users 1-7,text,true,,151573,116,6,6,https://www.czecho.pl/,1270,0,0
+1619213330874,1260,Czecho.pl main page,200,OK,Czecho.pl users 1-9,text,true,,152046,232,5,5,https://www.czecho.pl/,23,0,0
+1619213330874,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-9,text,true,,485,116,5,5,http://www.czecho.pl/,23,0,0
+1619213330898,1236,Czecho.pl main page-1,200,OK,Czecho.pl users 1-9,text,true,,151561,116,5,5,https://www.czecho.pl/,930,0,0
+1619213330186,1997,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152058,232,4,4,https://www.czecho.pl/,61,0,0
+1619213330186,61,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,4,4,http://www.czecho.pl/,61,0,0
+1619213330247,1936,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151573,116,4,4,https://www.czecho.pl/,1302,0,0
+1619213330471,2028,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152058,232,4,4,https://www.czecho.pl/,54,0,0
+1619213330471,54,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,4,4,http://www.czecho.pl/,54,0,0
+1619213330525,1974,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151573,116,4,4,https://www.czecho.pl/,1063,0,0
+1619213331998,819,Czecho.pl main page,200,OK,Czecho.pl users 1-10,text,true,,152058,232,4,4,https://www.czecho.pl/,56,0,0
+1619213331998,56,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-10,text,true,,485,116,4,4,http://www.czecho.pl/,56,0,0
+1619213332055,762,Czecho.pl main page-1,200,OK,Czecho.pl users 1-10,text,true,,151573,116,4,4,https://www.czecho.pl/,617,0,0
+1619213332006,898,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152058,232,3,3,https://www.czecho.pl/,53,0,0
+1619213332006,53,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,3,3,http://www.czecho.pl/,53,0,0
+1619213332059,845,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151573,116,3,3,https://www.czecho.pl/,606,0,0
+1619213332184,1138,Czecho.pl main page,200,OK,Czecho.pl users 1-2,text,true,,152058,232,3,3,https://www.czecho.pl/,24,0,0
+1619213332184,24,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-2,text,true,,485,116,3,3,http://www.czecho.pl/,24,0,0
+1619213332208,1114,Czecho.pl main page-1,200,OK,Czecho.pl users 1-2,text,true,,151573,116,3,3,https://www.czecho.pl/,917,0,0
+1619213332499,875,Czecho.pl main page,200,OK,Czecho.pl users 1-13,text,true,,152054,232,2,2,https://www.czecho.pl/,21,0,0
+1619213332499,21,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-13,text,true,,485,116,2,2,http://www.czecho.pl/,21,0,0
+1619213332520,854,Czecho.pl main page-1,200,OK,Czecho.pl users 1-13,text,true,,151569,116,2,2,https://www.czecho.pl/,611,0,0
+1619213332905,1011,Czecho.pl main page,200,OK,Czecho.pl users 1-6,text,true,,152058,232,1,1,https://www.czecho.pl/,21,0,0
+1619213332905,21,Czecho.pl main page-0,301,Moved Permanently,Czecho.pl users 1-6,text,true,,485,116,1,1,http://www.czecho.pl/,21,0,0
+1619213332926,990,Czecho.pl main page-1,200,OK,Czecho.pl users 1-6,text,true,,151573,116,1,1,https://www.czecho.pl/,624,0,0
